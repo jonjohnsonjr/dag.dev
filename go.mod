@@ -13,7 +13,7 @@ require (
 	github.com/google/go-containerregistry v0.13.0
 	github.com/klauspost/compress v1.15.11
 	github.com/minio/sha256-simd v1.0.1
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.8.1
 	golang.org/x/crypto v0.23.0
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/oauth2 v0.20.0
@@ -67,7 +67,6 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240429193739-8cf5692501f6 // indirect
 	google.golang.org/grpc v1.63.2 // indirect
 	google.golang.org/protobuf v1.34.1 // indirect
-	rsc.io/gitfs v1.0.0 // indirect
 )
 
 replace (
