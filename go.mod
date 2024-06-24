@@ -8,7 +8,7 @@ require (
 	cloud.google.com/go/storage v1.41.0
 	github.com/digitorus/timestamp v0.0.0-20230220124323-d542479a2425
 	github.com/dustin/go-humanize v1.0.1
-	github.com/fxamacker/cbor/v2 v2.6.0
+	github.com/fxamacker/cbor/v2 v2.7.0
 	github.com/google/go-cmp v0.6.0
 	github.com/google/go-containerregistry v0.13.0
 	github.com/klauspost/compress v1.15.11
@@ -67,7 +67,6 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240429193739-8cf5692501f6 // indirect
 	google.golang.org/grpc v1.63.2 // indirect
 	google.golang.org/protobuf v1.34.1 // indirect
-	rsc.io/gitfs v1.0.0 // indirect
 )
 
 replace (
